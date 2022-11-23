@@ -4,7 +4,7 @@
 *IOC information of detected groups in the Ransomware Report generated between 05.11.2022 - 18.11.2022.*
  
 For Details Report: 
-[05.11.2022 - 18.11.2022 Ransomware Report ](https://threatmon.io/threatmon-ransomware-group-activity-report-28-10-2022-04-11-2022/)
+[05.11.2022 - 18.11.2022 Ransomware Report ](https://threatmon.io/threatmon-ransomware-group-activity-report-05-11-2022-18-11-2022/)
 
 ## LockBit 3.0
 
